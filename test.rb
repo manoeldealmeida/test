@@ -1,2 +1,2 @@
-test in the branch origin/master.
+Testing a new branch (master and testing) in the Git repository.
 
